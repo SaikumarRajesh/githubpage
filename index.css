@@ -1,0 +1,47 @@
+.navbar{
+    background-color: rgb(12, 12, 19);
+}
+.mx-auto{
+    color: white;
+}
+body{
+    background-color: gray;
+}
+
+
+.box1{
+    background-color: rgb(48, 47, 47);
+    height: 630px;
+    width:300px ;
+    margin:20px;
+    margin-right: 0%;
+    margin-left: 0%;
+    border-radius: 8px;
+    margin-bottom: 0px;
+}
+.box2{
+    background-color: rgb(48, 47, 47);
+    height: 30px;
+    width: 600px;
+    margin: 20px;
+    border-radius: 8px;
+}
+.box3,.box4,.box5{
+    background-color: rgb(48, 47, 47);
+    height: 150px;
+    width:150px ;
+    margin: 20px;
+    margin-top: 120px;
+    border-radius: 8px;
+    
+}
+.box6{
+    background-color: rgb(48, 47, 47);
+    height: 150px;
+    width: 690px ;
+    margin: 20px;
+    margin-top: 135px;
+    border-radius: 8px;  
+}
+
+
